@@ -1,0 +1,2 @@
+numpy          # for generating large random arrays efficiently
+matplotlib     # for plotting execution times
